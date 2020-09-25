@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 50;
+
+}
+body
+{
+	background-image: url(https://2.bp.blogspot.com/-iRnH5coBXSs/Vd6H_2mNMPI/AAAAAAAAItk/OmvSHIXbBVA/s1600/fondos%2Bpara%2Bpc%2B7.jpg);
+  
+}
+
+
+#menu
+{
+    height: 0px;
+    top: 0px;
+}
+ul
+{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #000000;
+
+}
+li
+{
+    float: left;
+
+}
+li a
+{
+    display: block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+#datos
+{
+    width: 80%;
+    margin: auto;
+    color: white;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#nota
+{
+    width: 80%;
+    margin: auto;
+    color: white;
+    padding: 40px;
+}
+#video
+{
+    
+    width: 60%;
+    margin: auto;
+   
+}
